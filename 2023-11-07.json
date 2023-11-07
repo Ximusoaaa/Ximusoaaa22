@@ -1,0 +1,26 @@
+{
+  "name": "Russell Williams",
+  "age": 54,
+  "address": {
+    "street": "Lope Avenue",
+    "city": "Zodupa",
+    "state": "WY",
+    "zip": "16325"
+  },
+  "contact": {
+    "phone": "(679) 302-4292",
+    "servicePhone": "800956865"
+  },
+  "birthday": "1966-03-03T13:41:30.545Z",
+  "ip": "7.230.187.174",
+  "foo": "bar",
+  "profile": {
+    "about": "Ojoir wag gopzez elagowes nivbofuz gozar laah ti sa wel irujec pa miibe ad to ewosano. Kizov sipfav jiz akipa ef jaefe movjavrij ad sonur ocahzo avve dus az. Nowgoh basvejgan fomu tiad op hum jofiove gu arkolgo vemvogav wi fuv zih.",
+    "bio": "Duwhavcaz ahu woav papubu cat warepiz ri ge di virite wasvukes vucwitwa. Purgah bab ku cu ud zon la bobmucka rafid ezvon cipo pulipap utdo. Satemo nito sajroj ze id jorif vut al ga ij isdec monuc cudubuc gebjo."
+  },
+  "apiKey": "ecc25b8080513db01e508a51ea364f5e3248cec7ef4c7c565e336548832ca21a",
+  "currency": {
+    "code": "JOD",
+    "name": "Jordan Dinar"
+  }
+}
