@@ -1,0 +1,26 @@
+{
+  "name": "Leah Hubbard",
+  "age": 39,
+  "address": {
+    "street": "Diaw Junction",
+    "city": "Movsinomi",
+    "state": "NY",
+    "zip": "19863"
+  },
+  "contact": {
+    "phone": "(614) 261-6685",
+    "servicePhone": "800358773"
+  },
+  "birthday": "1989-12-30T21:05:17.326Z",
+  "ip": "141.141.120.230",
+  "foo": "bar",
+  "profile": {
+    "about": "Nengo keuh esugopa hac taliv domozmi bokkub gijeapu cege wim otebesas gakov toloter. Zamlad gir uh kopnuz uw tiz rib kib mozvuru va ceoda reiz rek oh biv. Zodfe kidek jer cibriz zabobfe hijnop hufpop hekowog ok gomot egovattuh vus.",
+    "bio": "Gipi vomuw odfe agreifa en posu hafvup kezug vede hevo ruiko aje. Ubonufra haev keh zac bat karaz ucubowrof kirguf zufbud ejeola ohauvdej fifco omowuju oduzugtu. Nul ajiviczoz waipvu zoselira lin matahaz gada lesobun wel noud got fowmub. Rovo uhjen tusazrac eviojomur ocefiru iweiza uwsoij ravehti uldisnu id salhoc keozese. Ihuh nihof affirav gecli wudak lopokcod pine maw gobzu ilu pidiz piifodi irabuaco."
+  },
+  "apiKey": "161361d7b80eb934dd8fcf2ee6e83df5578d22e4f05d69b3231b6c0ce5aba1b4",
+  "currency": {
+    "code": "TVD",
+    "name": "Tuvalu Dollar"
+  }
+}
