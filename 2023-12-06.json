@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Matthews",
+  "age": 35,
+  "address": {
+    "street": "Hiuco Point",
+    "city": "Noewibo",
+    "state": "IA",
+    "zip": "68110"
+  },
+  "contact": {
+    "phone": "(431) 299-3385",
+    "servicePhone": "800563165"
+  },
+  "birthday": "1995-06-30T06:16:10.487Z",
+  "ip": "106.95.44.57",
+  "foo": "bar",
+  "profile": {
+    "about": "Odeabtif garin rej oziri nijro amecca semfujrig er nuve liepzov koc ci kifejhaj ubiej ritunle pu. Uwini terra haijetiv fe hovucra javusu mu cota ahe fuh cilojof pulup mafek. Hur gigjo noghudbut bajob golvu pibub pifukfak ablodif uz wuk ovkoge tofdivi jozab. Jamut bonsu kesgow ce hu ewa fulmadoz we ku otouze usbufun ve. Ujulo vursob fi bizfi pufhocri javni laib wuehojur binun afudozeh asnihli natihdup. Wirdet bozpati otafutlum lizubzeg uti tam havwe kuhsu mojer hefotfus ilegafe bam.",
+    "bio": "Tik ofiolurot avuciew ubcup lirliv ud giwame zo oj aw ijikoplu fapkikwo hodtib ulazazipa zaewuuk zuap jomumiko. Neg wu ocaki ejafase gi cejiemu dukeco likegiz zawgib naob jaz simti mo samruk koji ruwevas. Leirdah uzo bus sofoconud varencup wa paggu kisajzu fuk gu gi miih ki kocma cogigew hakhok jevnerfe iktuek. Opvoj oc fiihiveb dip ozofulofi ele iwvijzev senlup ab zonfi bu ha divuj suso. Kilbiru beaz adi mi cuk hiibizu kolaobo dutjo je rid rarli fis uzalupot wa zien putmakos kas cudihobo. Dil udo ke cikek tommu wum ha name nu tarirale cipif bovnah gevatup pehim evif rizge zul tulsa. Nenbez mipluh ibiic daculze jetela jibwez dehakhal muze mazim muwekol vamo ivineaba gogi."
+  },
+  "apiKey": "f8f35727ad3c64e884356b168a2664cec5baf7b3cbd1b15eef40baa53411b323",
+  "currency": {
+    "code": "AZN",
+    "name": "Azerbaijan New Manat"
+  }
+}
