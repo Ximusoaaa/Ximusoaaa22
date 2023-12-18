@@ -1,0 +1,26 @@
+{
+  "name": "Kyle Medina",
+  "age": 33,
+  "address": {
+    "street": "Emle River",
+    "city": "Pijmivan",
+    "state": "TX",
+    "zip": "85950"
+  },
+  "contact": {
+    "phone": "(440) 501-7683",
+    "servicePhone": "800294246"
+  },
+  "birthday": "2000-09-25T21:30:05.222Z",
+  "ip": "246.134.16.191",
+  "foo": "bar",
+  "profile": {
+    "about": "Okeukma baba rur dizi nitaemu lozud mamut ewukejis hu isre vilrelvi rarevdeb jivo ajre sajruz cal sel oribulu. Ipudep ziz tu kirzuwja dul peburuf nikam cijke pop voroh ki gegog zuh oto iririheso. Atusezre catempar go we jitena te weruaw ked ruc lugagi akomueva ko guseg was wub daraguwo jadi rorgejed. Wi micpu jucisir bofgor keh tuleni huho ataho ci ve per zebebami cait so jeovadet zif la.",
+    "bio": "He igmugbur jim nakohi vuzve timmife foewa zuk tudacra gu nudvalof edtuze ukijig polcekzu. Nopja gacaiv ge bogla jikvarfen degasubi had ave meg mupgaat hi puwravhi epilif hedazvit. Ofupecwur duvdep betcaf suca reido ku uciakozi dubhih muhdur pehnut vokifoc atecezja ra ornig lerev."
+  },
+  "apiKey": "f283f1592241b3251c7805e9f17403eb271d3f84987df523ce9e99e38ad33ec3",
+  "currency": {
+    "code": "SBD",
+    "name": "Solomon Islands Dollar"
+  }
+}
