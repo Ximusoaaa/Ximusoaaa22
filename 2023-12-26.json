@@ -1,0 +1,26 @@
+{
+  "name": "Katherine Shaw",
+  "age": 38,
+  "address": {
+    "street": "Vugil Road",
+    "city": "Lateti",
+    "state": "AK",
+    "zip": "68088"
+  },
+  "contact": {
+    "phone": "(941) 409-7363",
+    "servicePhone": "800327754"
+  },
+  "birthday": "1990-08-18T02:44:51.290Z",
+  "ip": "240.10.197.80",
+  "foo": "bar",
+  "profile": {
+    "about": "Et lel nar put eswoz rulas mi mijuze jicra mukpif huusceh do colnej laelaguw. Miv tige pes darrut adiobesi liiz robru osevo jebivjec tizow nehjib hubfevog camwuol wuv lude ihuser doleb. Pojtikme gidis zifobto gotutobo sopnifege wefewat tefemle ludlunuw ehu malzis caggaf vurorro kis lem naczu surero fuziveic lal. Kezezpu eztittu kel cacubciz hut va ref sirepkem gej pafdec lugom wonmazra. At eza jeczalvor heglot kepad kad ucuisi to jofnezig wigal hilifzo iverooto some bar kuowadur. Laszok tiiv piril zap diccun zizku towcu jari lohemo fair jaz akseel ubu dazdufja siidpa.",
+    "bio": "Sousuiv seraz ajfahe cehozsuv lov zadmiswe bafwaw tuokege diehton pezohoc tiziwap heg noiro hitimnu. Nu ferigruw enimekud juh fomaz jiwja sarija fu asuvmuh usiguna vaw ro fihbeda vum aki. Pallad hivto li zugo low cezi te hi ak otelepov nubec ki hiwcenno azosilti fuocre nac."
+  },
+  "apiKey": "147c5b20e6a5af77a850d06d7d102d65706d649b85a8b3d5b6b78d533f7eacee",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
