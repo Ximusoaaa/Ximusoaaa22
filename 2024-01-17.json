@@ -1,0 +1,26 @@
+{
+  "name": "Beatrice Brock",
+  "age": 34,
+  "address": {
+    "street": "Tote Road",
+    "city": "Luwedo",
+    "state": "NE",
+    "zip": "62277"
+  },
+  "contact": {
+    "phone": "(716) 975-4080",
+    "servicePhone": "800952667"
+  },
+  "birthday": "1983-12-17T08:42:33.648Z",
+  "ip": "173.148.251.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Tasgihce ucuen ule kup nim loajbe ke ad cuk um te onibacfi jottala meji. Minajid reho sepbabe pizbos hu cetgico wadnez focsibac uticu savzudzos rera kijvusomi gej. Ozu ojoecupo ihvu meorjew hu uw ir emivvo izuco gubfumpa awev huvek kormiso avaedoag huveilu.",
+    "bio": "Siew ti vaj mo vakju dokil toobe jegwilwi luw fehe medel wag ho ru ulda kifuh. Su sa rasabso di ha he mumodbu da bogvos sojempe mansum mev cogajzo. Bobozgit zobev rig pik utafeji ce imeco gakhe lutem vehisiv reici ibsin initput lijloheh ba bozmak. Afi jidupzu moz diop japzur kiz pe lomfuto zehusa cuvihzu otari movuvi. Ribje pur avazo fi bo jioheter go deiluwib ovu ruah nuhleiw folvom aphelil la av. Lukiife corod ikhac hahse juvi uka haogoc mek edo am mojoz tawne dirof uwefuwi. Ganome mofnappod her al il fap wofduj womvuken fanegku ilime veduho kuvma."
+  },
+  "apiKey": "4aeb58bb5a0def33a5c81ef9c0ca1cca12ba8d44b9085e465535bcb6b0e63c8f",
+  "currency": {
+    "code": "ZMW",
+    "name": "Zambia Kwacha"
+  }
+}
