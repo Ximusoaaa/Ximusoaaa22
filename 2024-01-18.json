@@ -1,0 +1,26 @@
+{
+  "name": "Glenn Shelton",
+  "age": 21,
+  "address": {
+    "street": "Omvih Manor",
+    "city": "Fijfakel",
+    "state": "SD",
+    "zip": "50075"
+  },
+  "contact": {
+    "phone": "(859) 509-6183",
+    "servicePhone": "800222926"
+  },
+  "birthday": "1988-08-30T10:41:23.341Z",
+  "ip": "15.34.226.45",
+  "foo": "bar",
+  "profile": {
+    "about": "Powjepad cujlis apa hej lusow rigzokar popged zuwiga ritus va af leg tifa gubihe gobov daetuto. Jowaci mukcup il gi gezu kejole cibvono su in bikaknaw ko ehi bamluz. Kojhiro ogjo aheli warrakhuk urginusa suplobun zeswu moecne pisdacur bilirte ve gowi met ikeheam.",
+    "bio": "Ibwit amulum rapvodsi ab zinba ulodoapo nup pik johifva jafa ganohmab sacfif. Di sosdefga migogig zomo bafbeur ef me beze ipzul uli po awafop nahje. Neag bognid susmaf jusaneh duonwed aro bevezu lub puhezja goje mal bugah tasnac win hav nomi. Kucdal hiwi cimma becadap ha fo dotapo nalek udaguzvi rildoblu gaw ejaazle dojcim jamhageb jupzabiv tuppos wa."
+  },
+  "apiKey": "123c85018d51290bcda3cb8433a057688c705f3f5066daa450f8d479eec70cb6",
+  "currency": {
+    "code": "XPF",
+    "name": "Comptoirs Français du Pacifique (CFP) Franc"
+  }
+}
