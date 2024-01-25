@@ -1,0 +1,26 @@
+{
+  "name": "Nellie Briggs",
+  "age": 40,
+  "address": {
+    "street": "Suvtel Center",
+    "city": "Jolnirzew",
+    "state": "LA",
+    "zip": "47376"
+  },
+  "contact": {
+    "phone": "(469) 674-7746",
+    "servicePhone": "800695927"
+  },
+  "birthday": "1984-02-15T05:21:09.941Z",
+  "ip": "84.36.74.146",
+  "foo": "bar",
+  "profile": {
+    "about": "Mes dekun pegjetvuf tudec sov ha gur vuwcat uvu ha cirirez vo donka itumokav ro im kevait be. Gifemiser bi kaogge leta vemofkug tedba za cendam ziaze kajoima kakip ho. Lal parofadu ise iwu ap tet kin luvfu li zadefvo akaso uvu kefatapa rece jizejva bumzad otoci kow. Dej vuk uk anmu hid wonavavu tetku ongup maf oshosot daose oz gukigu tucbu sefkafzu.",
+    "bio": "Adre vi di tohsezca had id har izzupik wukofho tulep opesikbok odu. Kih pa nobvu ne ulunto tuv weledajew repona ikusewag uwnuw cofteh ud obuog wobnu zawpiol gac ju ofure. Obobi buboud ka anav wodsuw ivpe fuggirbil kihke pezes avu mu iwbohfa so kakir pi. Foskuh mom ragizwi hot piragiz af tugoknu jonocsa gav daafnik nurco tan uvwah pob."
+  },
+  "apiKey": "f4fd6aeeed0e354520ca7124b2a44caa2e38c62a6f2f805c74098db14a6a0c4f",
+  "currency": {
+    "code": "XAF",
+    "name": "Communauté Financière Africaine (BEAC) CFA Franc BEAC"
+  }
+}
