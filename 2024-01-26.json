@@ -1,0 +1,26 @@
+{
+  "name": "Raymond Ryan",
+  "age": 23,
+  "address": {
+    "street": "Deriz Boulevard",
+    "city": "Kuwofuz",
+    "state": "AK",
+    "zip": "69953"
+  },
+  "contact": {
+    "phone": "(703) 698-5224",
+    "servicePhone": "800113344"
+  },
+  "birthday": "1960-12-10T10:05:55.058Z",
+  "ip": "152.14.164.216",
+  "foo": "bar",
+  "profile": {
+    "about": "Ro va tenegket woces wa ifhu kildiw gefud so re gur hep masfuz wetci. Fidir bubis ol domo ja jevbetok lador razkaba femad ez ecpate tibiw zi pot howrudso bi egu. Dib moso usdot fudecuno ciosoke pufe ba guoho patu bokkazaf fazdeilo feti ca nulgid.",
+    "bio": "Wilta dow sa retweag la ba naru dasu pafimzob bud ha gikier iclirti dutu fah. Binegjoc zotki sibubat takiv juun ejfiwoj lipim vepgurze bob ha puzroh givkape dawo vem dof cusle. Cub ja cup nopcemfa eltukve kihno wokov ku zututce hic si riikaaf hofdolo."
+  },
+  "apiKey": "e6195a7e510135213d3ddd60e57b6878ae8df1902cb0b7bf3bf7651507a53011",
+  "currency": {
+    "code": "BND",
+    "name": "Brunei Darussalam Dollar"
+  }
+}
