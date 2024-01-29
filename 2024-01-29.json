@@ -1,0 +1,26 @@
+{
+  "name": "Rosa Luna",
+  "age": 50,
+  "address": {
+    "street": "Utecaf Highway",
+    "city": "Sojucuc",
+    "state": "MA",
+    "zip": "32438"
+  },
+  "contact": {
+    "phone": "(274) 422-2226",
+    "servicePhone": "800716587"
+  },
+  "birthday": "1966-03-23T11:08:11.398Z",
+  "ip": "236.122.63.111",
+  "foo": "bar",
+  "profile": {
+    "about": "Ta dapvafgab sembot sizcusve hejsod doj gibu pom gecpe bigu suko uhlil. Pegonol zikocur bima ise ihcol ti cu rog tigdiwfet ajoza wol fo ciz ijoruhi vu. Dicazwap du apuli serej jiwhetej fozoviko nipmivi huzsig dijiz cen zeisobe tobejruj wicho.",
+    "bio": "Viblis kiotala gukahte uri mewkacreb boztoh zaz ba lu dom wezmuf diok. Zo ma hudtekvab wuewleb nigagani ugfusgo acoeruber batlec fo wuphotev juhoesi zez jab. Sug mozafo uhibemob idbo vomhuhku riptubjev pobeta vodhir rujlas suvwared zower zieg viez urutu wojabize. Jug uj gahnot oh tek cowfo izweklec sum cihsura mopkujek te fegjum rujiwugic vog jub bivneh."
+  },
+  "apiKey": "faf67ee68b7830b0212a25cf6200e49a9c97198ce72e62dfca255499e5126f60",
+  "currency": {
+    "code": "MOP",
+    "name": "Macau Pataca"
+  }
+}
