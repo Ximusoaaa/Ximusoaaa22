@@ -1,0 +1,26 @@
+{
+  "name": "Mike Vasquez",
+  "age": 20,
+  "address": {
+    "street": "Muswin Pass",
+    "city": "Emuamaog",
+    "state": "NC",
+    "zip": "52177"
+  },
+  "contact": {
+    "phone": "(474) 262-1979",
+    "servicePhone": "800621942"
+  },
+  "birthday": "2000-09-23T13:08:36.626Z",
+  "ip": "171.182.54.18",
+  "foo": "bar",
+  "profile": {
+    "about": "Litmefuh tigikotap zinot aca ve ha nuhuc wiwo uli goder vu joru raz. Jowwike vu cufuvih gomuhedof ubapo babvoz awmi tedeoj udnu seiso urni ih igtuume lujukwo upzajpo fa dihep ro. Ozuba wuposor ju punipa wikidgak je uszis buj esdug wakagbec seb igi cuha. Abi ro mifim zefur vow ed izsas na rifde usfaci gijarti baskedhe ip veropmap olasodman sipzo adarakoj. Ar nevut ec ewuwufok ig ko hunvimle ahotoli egki bocruovo ze efe tij evote meuk wimovfuf.",
+    "bio": "Liav cafakhag bucefcu we fip zeho gugjonah nurgit luh tep fupas bifuwne duvuwaata vod zed pezo. Ka tavana eb ke ubsarco web nucpecid pefe sarlozob zupak vufbopco vicvunav kerzowdi omci. Osohese zi de ewad majih meevo lafwo pemlaf zohu mazla gawnoru vobvifet rep doh ve ugi. Webew lolvahka sovri dev osuvuvis meeni zubne cizil lucene gowovju cip jid alecor pu pevuom vejof wotutougu."
+  },
+  "apiKey": "6dc8cdb9c0a4c0aa8bd67f45d4e6ee576b44581445b4a45587b2a4b605ec89af",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
