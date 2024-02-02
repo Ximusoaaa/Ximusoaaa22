@@ -1,0 +1,26 @@
+{
+  "name": "Evan Morgan",
+  "age": 40,
+  "address": {
+    "street": "Kive Turnpike",
+    "city": "Werrowuh",
+    "state": "SD",
+    "zip": "24957"
+  },
+  "contact": {
+    "phone": "(676) 791-3520",
+    "servicePhone": "800642258"
+  },
+  "birthday": "1989-01-04T17:02:08.083Z",
+  "ip": "100.1.113.123",
+  "foo": "bar",
+  "profile": {
+    "about": "Cogec waw ti lavurhib uhpuzara ta kej dowi utuna hol kevejahu ocoje wusen ezse lec eh bogucoelo am. Kupa ehtawo jati tutzutzep we wob nuel livocra gumujuzi emzu ja ti azelooje olvanve jigabi je. Noema nev piwe ulor la nubohlik ha re wiwogvac gepahehu kizefav fi vabug hug walisku keku fuscegtel soflaco. Virwo el lumebzo joba nuzukag ho movuk re egeme ku labik dez lufepa munulnoh nusu rev efi ramijog.",
+    "bio": "Fudsudo otvokos tavugus sohuwmo tubpo ogouvi awenav nep dafnul zo lavcon mudhig wa niksefco. Dim na gar idwozuh eca ecekabil esasebho ani ugu bepos menewi edu. Cihfej sibu midudahab tah muwi juri veba na puv zupiz nahidse nuz ugo rof haj zabehon."
+  },
+  "apiKey": "09c25b647ed0d1162ce4da19c6d3bd8900ec3ad990307155c329ef58e592af86",
+  "currency": {
+    "code": "YER",
+    "name": "Yemen Rial"
+  }
+}
