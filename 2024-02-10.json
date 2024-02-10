@@ -1,0 +1,26 @@
+{
+  "name": "Vera Collins",
+  "age": 43,
+  "address": {
+    "street": "Balje Square",
+    "city": "Panorem",
+    "state": "OR",
+    "zip": "23858"
+  },
+  "contact": {
+    "phone": "(712) 361-3063",
+    "servicePhone": "800449765"
+  },
+  "birthday": "1991-08-06T05:16:56.004Z",
+  "ip": "95.161.255.223",
+  "foo": "bar",
+  "profile": {
+    "about": "Fe nor fe tifij hudif ji visfaf zevtuc cel uzuozi azo kamujega. Gejdazafe biv lemof agodues gutdanvo awuto perloji acele vuh wuf zef avi wosfas anmud ipiud. Az alomi vickan jurnamce sageweg is ugali hihi suume to cuggaduj ama zoripiv ru wo mopkibbu.",
+    "bio": "Va duliev rudav liv ade zirno dobeguj sul ki ehusi mobega ezji oriuvi obi zut valiwcup bodi. Gowagizu rad cef vokgi arbubew ibeoci kivnaw ugeewiode fos vugol zu arjo tucdel gel resari pobota hivefuz os. Baj towir mar fifdob degimo fe me lota nadzami haf wiwkur iv. Oko lahfuh biko ri nivukan viacmes uvsuda zuhfapuh pajebeb luni jem lere. Refba suspu moj so gabjafoni ikug wuto rohzej wo zofpeaw ezafehomo idi ubieha ciza fogzumhu idumaf. Er waduh inoocu ibepati kutice itrejhu nawbij fajuvbom kofi ekugev sokomgo pub dajadu ma duvhujes pokup salabban hufaj. Puke kov hegin wedeh do lajepein ubuwaf otefilah fivuzu et enused amdu ha galcabwi nedmubdo fuwek hitas rokfole."
+  },
+  "apiKey": "f8d4376830ae74ba4d7aa933a8f5d287e56ddf63be987215f1f5a5c2ba09d66d",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
