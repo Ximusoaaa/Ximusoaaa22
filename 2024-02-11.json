@@ -1,0 +1,26 @@
+{
+  "name": "Wesley Rivera",
+  "age": 55,
+  "address": {
+    "street": "Menni Avenue",
+    "city": "Talhemo",
+    "state": "ND",
+    "zip": "34388"
+  },
+  "contact": {
+    "phone": "(249) 705-3748",
+    "servicePhone": "800559224"
+  },
+  "birthday": "1981-08-09T09:26:50.961Z",
+  "ip": "245.133.227.120",
+  "foo": "bar",
+  "profile": {
+    "about": "Bamew hiljusjug dakse ede curbaawi to wuwo rot du be zucula ni kitcud. Wat roevazev dape rujmur us saijkat kud cisemvu fotekiani alif memhug jetalja. Bo kis bacite zocet luru uh furaheica sav juzaci sasovra nug ekezu.",
+    "bio": "Fijrudi som apaja nevulo ihofoko awsuc dohubanuj lupbus esdiza zeleg fepda dosa voog ilaje cepahiwa. Dojeut lofci obinawles pipooci nage vo naz foparhot otmu gi aw vurbiwuc vik foire one heg. Hib ud ovo fa obedumaj ifaw akvuwab nu rib uveefon ju ulopin pawahi urcito."
+  },
+  "apiKey": "7aacc40fcb13ac02d9c2ddf4270fbd59a676ad6c221943fe1e2a7ab1f65e485c",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
