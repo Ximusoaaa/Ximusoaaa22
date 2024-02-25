@@ -1,0 +1,26 @@
+{
+  "name": "Irene Malone",
+  "age": 19,
+  "address": {
+    "street": "Ovle Street",
+    "city": "Jiscehne",
+    "state": "NM",
+    "zip": "90909"
+  },
+  "contact": {
+    "phone": "(572) 334-8652",
+    "servicePhone": "800939386"
+  },
+  "birthday": "1988-02-23T20:20:20.743Z",
+  "ip": "10.123.138.163",
+  "foo": "bar",
+  "profile": {
+    "about": "Rupzojok levamuza ke kebda risec tahnu aje mew ku ejizumi ces kacci azo ma orne nad. Decodare geloj ub foega macvu zen vujimi jor raabu bouzoelo ijeluzas ezawonja jazzoga. Noclesvik danpabdaz tuw jote serna ovofip ti locluek loj he ap caru sif. Viluboji vum fubfu ro bisup wuer rikjodop jadmo sazsu uvroite ojohecpo jap useje girkukvi wumekjut va pepuza sosvepsu. Vus ufgo cideskes vum akegig libgiz gihaebu uko da wizoaco hoadi ba cut vihi. Fage du pazloz aw no hen avavedus uv bu ivgij zi menju safag.",
+    "bio": "Poktoni ej udejoko bovdul rumi uku ozewu fove vidi ujuvu mevtu ge mulba woj ton cibadhe bahev apa. Muuzbeb esagi jibu opbek azimovmi wotve wup peg ujfem ipanatu akon zon. Mapo buzijsa di puboc tal ezsu ri coj nofoc foj uchefen zajrub haebsij wob im."
+  },
+  "apiKey": "11aea1cb74287faf96f98a81559f14e8c9a14936452293b52aa1f4427f5f4e48",
+  "currency": {
+    "code": "LSL",
+    "name": "Lesotho Loti"
+  }
+}
