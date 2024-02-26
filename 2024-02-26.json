@@ -1,0 +1,26 @@
+{
+  "name": "Bruce Stewart",
+  "age": 59,
+  "address": {
+    "street": "Licaw Junction",
+    "city": "Dinuru",
+    "state": "WI",
+    "zip": "85218"
+  },
+  "contact": {
+    "phone": "(901) 919-8923",
+    "servicePhone": "800742536"
+  },
+  "birthday": "1960-07-04T02:26:04.221Z",
+  "ip": "209.187.151.88",
+  "foo": "bar",
+  "profile": {
+    "about": "Weva row mak zud pearugil waze falu unaol nof bewef dadwoja zaghe. Dugwoec eja egfojmen ogawegzo comfifca ki degokgi ehwupo guzepze dad no movgew mem if. Kafca fu beakogeb zije po isi lihufihu maderija kuow nihacku cecnec ihjac fug dez fo. Erabi wenicba kiwa jepepe wobun dadva finujfu ra izaera wogco jusza suweod fuhosa vezelod nusura tidacwu ocevo. Ehesifi dezhired hocwigkif ap pu hosbuj vukwehem masuze purir do hohukleb vescurep manuc kidelofe. Denpir niuzo fomovgi volodbo niguf ven acke lafnago farmu jinsol megej uloci.",
+    "bio": "Hu nujmujov nefi egoreb cuhomo zicdococ ifu ubighip wizcubla te jaev gefo dugcomhu. Vinowi wevsinnid pevi wa liobbu kobbozgu no sig fin iroomsef mew cetudo adkuv irolen lanci. Ehura cas jus juklov suoke kucatma zaka kol bipputda mamawe sud ufgas kit wi."
+  },
+  "apiKey": "46a27b69c7c1e8fb6eae0aa066fe8c6c1ac777b3feb72a10fe86523dd6ea57c0",
+  "currency": {
+    "code": "BZD",
+    "name": "Belize Dollar"
+  }
+}
