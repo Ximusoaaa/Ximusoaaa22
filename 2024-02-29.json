@@ -1,0 +1,26 @@
+{
+  "name": "Agnes Lynch",
+  "age": 19,
+  "address": {
+    "street": "Jalzih Center",
+    "city": "Pederamig",
+    "state": "SD",
+    "zip": "34388"
+  },
+  "contact": {
+    "phone": "(416) 247-9760",
+    "servicePhone": "800437581"
+  },
+  "birthday": "1962-09-11T14:57:27.469Z",
+  "ip": "40.44.228.48",
+  "foo": "bar",
+  "profile": {
+    "about": "Ozvigwe godelejo hijezbaj ki itwenud otirod fifhi huhape za la le ovlek ohuumiume gijejamo cesawsid. Zerde izdifaw aku ro mumeb gavbifcuj ozugek irierras kov dobzek zubihana mojmuc ajijoret. Pibeda suhcahca fapenevag awza zizojlel lebha kobzogte pu namuzah do okose haki egivonla.",
+    "bio": "Kujempun nig tigap ebmo wupusos pednoz ev ima pon makeso du cut jihzo. Wonpe ardep ho ero idubu kid zubhom enwa jotezavi ge suf sa luvhegig poroog. Ihja os aludu uruwa za mucik ninroj inobo ri bitsingur esepeta teppopen dihu wiasoare eteuju."
+  },
+  "apiKey": "6827d6dfa7e380c727dc59a1b451f44e06e9aa91610daae1fa45a06ee587c857",
+  "currency": {
+    "code": "BSD",
+    "name": "Bahamas Dollar"
+  }
+}
