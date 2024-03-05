@@ -1,0 +1,26 @@
+{
+  "name": "Cody Morris",
+  "age": 56,
+  "address": {
+    "street": "Gohav Court",
+    "city": "Zujavut",
+    "state": "ME",
+    "zip": "79504"
+  },
+  "contact": {
+    "phone": "(966) 748-1219",
+    "servicePhone": "800563619"
+  },
+  "birthday": "1971-04-10T14:12:12.528Z",
+  "ip": "227.22.136.61",
+  "foo": "bar",
+  "profile": {
+    "about": "Vagrahvar guh feste wi ebeho kuwabpof zatfebcil sapkel aviv zopo zihir kesabozic rola enuora. Ebe cacjelas ri pafdooti bir kepat siwsu ta wib cazetza pol naodepe ezokod. Nuwanu led gosobros feswuad igtene gagceiho tolvelpor niuzu cejvituc sohe lati lacdowo nombeuh soilmu.",
+    "bio": "Hot mugda girnagem bemo opko giza muffaha ovzuoz wutohoicu izzupfa notzo bicfepzi mis liaco lalcedohi roz. Ekmivur deldeok okonis ebinun ib ri ciluko wicut zeh basedupop su nahza rak. Nitfitu babjecbic lijosuh kip zelsop satli guwver fuhgezak sacdogco ilaak wud itsoh fedi widcav. Vad meoca ahpi rozuhar omepmiz jatdu getuk hapsigdom zitiko wunba siolzum hob lideh."
+  },
+  "apiKey": "d1dfc1529ce8e139ce8d0d5b11496251e8d1479be42cba009e6881d820633bc0",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
