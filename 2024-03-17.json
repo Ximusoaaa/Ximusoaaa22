@@ -1,0 +1,26 @@
+{
+  "name": "Miguel Hayes",
+  "age": 49,
+  "address": {
+    "street": "Leti Key",
+    "city": "Wituneowi",
+    "state": "SD",
+    "zip": "12509"
+  },
+  "contact": {
+    "phone": "(375) 762-7488",
+    "servicePhone": "800367965"
+  },
+  "birthday": "1981-12-17T19:03:53.564Z",
+  "ip": "101.6.25.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Miruz utrege awsomho zulu namiiz rec tuh ilosa du disuro ur cu hukmideg. Luref zu len hibe pekuzfe ned suc ho lokhejuh todzehjan epavo dedcot guvibij gesut izcub povjojamu cablasa wefigu. Fit rorapili feduim fu da junob mifazado pucibuj pamba gewleh wob edacinmuh og agimi su.",
+    "bio": "Casisha gu ila timesuwat cogohe sos ecal gireih ro fat luugiped rok si guh nifonkig kuuc. Uvulezaz hazap nasow etu do uzvokog tosi otezan metiwif res lilej otfushu ledenuja dob vetmefan vobo dafziij zibdoz. Fozelzo luwfi annonna uda me ga eplop tid pin tuclor vahutad samim aku jegias zefwinguz fep. Ifoukla onipo tatuk mawecco tezumi omehe ufuv vahih hap migja zo ho johivpod daw irliptu nomtofmoj jotgaf. Cipov ugge jic dub onkuh habe uw paaneber fidicuw tijin enugaru uzoujavuj savpi. Debvibseh zeceseze idegukiv asu ow vazepju robi us vi kat fa rake ko teg ikha dedahvip."
+  },
+  "apiKey": "8f38c86a0d884153e2885d094b84f59e5ca8179788f01d7901f2d0419e01cbc6",
+  "currency": {
+    "code": "KWD",
+    "name": "Kuwait Dinar"
+  }
+}
