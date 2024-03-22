@@ -1,0 +1,26 @@
+{
+  "name": "Callie Cross",
+  "age": 35,
+  "address": {
+    "street": "Hejev Turnpike",
+    "city": "Lagiwzeb",
+    "state": "CO",
+    "zip": "03822"
+  },
+  "contact": {
+    "phone": "(789) 689-2876",
+    "servicePhone": "800978113"
+  },
+  "birthday": "2005-11-10T14:50:55.316Z",
+  "ip": "129.173.224.127",
+  "foo": "bar",
+  "profile": {
+    "about": "Fad uzemiuk bela biruthi fotfe kiv dofir evjow med vocsek rodsa le. Kozowo olwuwlo oliime beeleuz haflu ja pejofo huz dagnaf balatutog laome civ si vu. Sa hifme juvitdur vaimki towguswuj ubaha kuv he okotove ogpa tis jaku dip. Orablo cariz pi cu etekafah sir ra ez kezeh zucvofri var kiptodabe gaufo. Nompur luid jatpobo da tita lin wopovvo zuk vegkorut alatip zewoni rip ke huzfel. Cu acli jumbar ko roktaw ovkeso eso uz gahmif luhjijuhu cougumi sarjuz zo rejile veprulwit no fagmomnu otugu. Jegusur emuezlu vomo uladamgo rotwo ca ujode taw omu abekali ol zehrilte pir pazfultef.",
+    "bio": "Rupe penmaf muziw appul tapzoh ronli get taozbi ateved abolo tu ikuti wujidi. Hom gefdo muvinili elnoh gi ruttub doztemza meshu atzobuh karoc ot cip facog. Zerpad cuefo mazheb sadico gicevse hibadek kophi we beg jutno don pikoire paop la adihiej icube kikgi eja."
+  },
+  "apiKey": "d04ab3f4644b3124d4eb0e2cf96a37d74a32646d7f9b363045c3f2520d79242c",
+  "currency": {
+    "code": "MMK",
+    "name": "Myanmar (Burma) Kyat"
+  }
+}
