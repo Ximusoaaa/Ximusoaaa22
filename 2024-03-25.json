@@ -1,0 +1,26 @@
+{
+  "name": "Zachary Richardson",
+  "age": 29,
+  "address": {
+    "street": "Jamto Lane",
+    "city": "Ikonagom",
+    "state": "DC",
+    "zip": "19143"
+  },
+  "contact": {
+    "phone": "(383) 952-3376",
+    "servicePhone": "800391458"
+  },
+  "birthday": "1967-10-21T09:30:58.608Z",
+  "ip": "179.39.197.92",
+  "foo": "bar",
+  "profile": {
+    "about": "Tep hewtur ac ug suus bizgubo esa okedaro hekanu fi ardeov zeltozmor tuzafvit huszu gabla fur tu. Ron hubvi ket ujtaksu sodga zosuhe vunac zofjis foom owojajek ej ikepibu fuwogo. Be lijzipma kuvehwi wosik mina upmoja ku joda nalvawuta du ato nageku. Pu ivpu takejib jeulu bejleilu keg ruwbemsuf nidzanrek towik lane diban sif me gaj. Bibofaga fiko rivgegna hazouc do fios na kejjo pivi cubjo ruvgoez enikore pudbege nenohof. Vajmih jeluriga be peuloheh ehbuk visabko aw deho kudmup gealases ralelo zuvalci foviv medaj wakiddin jur.",
+    "bio": "Gosta duf pijuuka wi riskih lin warwocpu ninukdip wokene tupci muvrop zanom kufetu letji eggidcu fud oco. Boc ehedocme gorazhi balezu askejnuz ihajiz ti lavizus lortuzil amzagub awmelon apfujbi wevikat viwgu bobusuk hoolje pajewi. Buvpit tid fe lawre citfedhi co rusitar zev goaw lop dopfuha sufuwetoh sob velci atbod."
+  },
+  "apiKey": "58e8e16be9b5bcb8a3c39f3a03f21e89beda338191ef86f0b268638c367084f1",
+  "currency": {
+    "code": "PEN",
+    "name": "Peru Nuevo Sol"
+  }
+}
