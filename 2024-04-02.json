@@ -1,0 +1,26 @@
+{
+  "name": "Janie Duncan",
+  "age": 25,
+  "address": {
+    "street": "Hownes Highway",
+    "city": "Babufibi",
+    "state": "VT",
+    "zip": "41202"
+  },
+  "contact": {
+    "phone": "(286) 642-4579",
+    "servicePhone": "800554892"
+  },
+  "birthday": "1976-08-18T17:04:32.000Z",
+  "ip": "136.13.201.24",
+  "foo": "bar",
+  "profile": {
+    "about": "Nuvgojreh hebo lif soez beimouco olo pugew liki ed he geb evato huzoszo inahom zo sala. Ubi wa ac divmoh rueg lusortam ma te wehribze wo ju raac. Gik ma oca zin ofadevu inna be dah kakabnur lotuhe tacmo toebi fasekgi fukihdeb kohkih faiwvim. De hep sejza voda felzaoz koku zenogoc noc wo tufsep hoh pawog.",
+    "bio": "Uji nagnetabi dahu run hohem vuna sommew hu ko tasuoma fedvivso bi havuttiw jipoc tesej ov bofvak. Cibvuduta kathoz uheli erahucic eg tos gokro hobtijeb bi legi pim lazkofana koletu. Heofpe lepo ci dek wewhe recom cefmitbe wejhetdi rawuf medoz impezgo wis vaheho israufo enu uwumet mu. Ged gukpota zec vi ro tac ohrogriw biuze ne samezawe hev ku omle tucse ri noz."
+  },
+  "apiKey": "a87ac484d9d6f896bbd2d6b7e7dab5e67a4ea5dd15eb1c93655434188a24dc68",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
