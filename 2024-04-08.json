@@ -1,0 +1,26 @@
+{
+  "name": "Sarah Bryant",
+  "age": 43,
+  "address": {
+    "street": "Cukof Parkway",
+    "city": "Didohame",
+    "state": "MT",
+    "zip": "58786"
+  },
+  "contact": {
+    "phone": "(789) 827-1579",
+    "servicePhone": "800318353"
+  },
+  "birthday": "1992-05-22T22:35:23.047Z",
+  "ip": "132.190.212.212",
+  "foo": "bar",
+  "profile": {
+    "about": "Ari biberew gagri cebru kavzocat juwada robov raado pu bos pulmal honzu dov wagvesewu nu. Orifu begzal akefesvu ri ripdap bebre waw zagfo cimcouso nekha suv fe omge. Ibaah jom ata boeku ezaka miwmugkem dibmeli lecu nahhar tabha subtuhrec sal ziw.",
+    "bio": "Mede buf sokojo ut eti ulbubli jo pereuso simbo moc ro zav juwed ej redhiz gujkusho pib annar. Ukefekac wepzeg selaw kosopeb tocaz ozi icuon mu woda velim ha verkebde jep kaploolo fauthu eksiodo. Dol luj weticlad pa jebalom hejalin huhnel uzi epior de ifisinnu zaw ladoz sif pad ocakerbe."
+  },
+  "apiKey": "71d60e6de5dbd856fa7e2671e3e0783de8c16cd32cdeb6e69b6f129b5ca6652f",
+  "currency": {
+    "code": "TZS",
+    "name": "Tanzania Shilling"
+  }
+}
